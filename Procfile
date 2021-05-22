@@ -1,1 +1,1 @@
-web: gunicorn nakshatra.wsgi
+web: gunicorn django_course.wsgi
